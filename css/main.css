@@ -33,7 +33,7 @@ body{
 
 .prof-info{
     grid-area: prof-info;
-    dSisplay: flex;
+    display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     padding: 0 5vw;
